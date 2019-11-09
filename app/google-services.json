@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "617274501162",
+    "firebase_url": "https://repo12-c3a2c.firebaseio.com",
+    "project_id": "repo12-c3a2c",
+    "storage_bucket": "repo12-c3a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617274501162:android:8e6a887274b84c3538bb53",
+        "android_client_info": {
+          "package_name": "com.example.feeds1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617274501162-6qjteihegeap23si6v01vk6lt1jt18kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feeds1",
+            "certificate_hash": "9f9029d14f79bc5ac4646b9e39563501e46b5af8"
+          }
+        },
+        {
+          "client_id": "617274501162-69evphkiqjfa39nb2kph4p28o38hsmja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJYJX53fDL248TnoxdW9PvJOHIq1ysV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617274501162-69evphkiqjfa39nb2kph4p28o38hsmja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617274501162:android:e4ca21fe98edd57538bb53",
+        "android_client_info": {
+          "package_name": "com.example.feeds_folkguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617274501162-ov161h998jh6bulkfvijr8bg492e3c9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feeds_folkguide",
+            "certificate_hash": "ef9fb14e78d77760bdd3d9d1ad346088fceb6ba4"
+          }
+        },
+        {
+          "client_id": "617274501162-rgt6f0cafh0gvmcuu9msbpgclojsac1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feeds_folkguide",
+            "certificate_hash": "9f9029d14f79bc5ac4646b9e39563501e46b5af8"
+          }
+        },
+        {
+          "client_id": "617274501162-69evphkiqjfa39nb2kph4p28o38hsmja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJYJX53fDL248TnoxdW9PvJOHIq1ysV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617274501162-69evphkiqjfa39nb2kph4p28o38hsmja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
